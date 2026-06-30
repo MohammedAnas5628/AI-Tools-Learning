@@ -1,0 +1,101 @@
+id,player_name,country,role,matches,runs,average,strike_rate,wickets,economy
+1,Virat Kohli,India,Batter,51,573,20.37,110.91,5,5.11
+2,Rohit Sharma,India,Batter,52,646,20.74,111.82,10,5.22
+3,MS Dhoni,India,Wicketkeeper,53,719,21.11,112.73,15,5.33
+4,KL Rahul,India,Wicketkeeper,54,792,21.48,113.64,20,5.44
+5,Shubman Gill,India,Batter,55,865,21.85,114.55,25,5.55
+6,Yashasvi Jaiswal,India,Batter,56,938,22.22,115.46,30,5.66
+7,Suryakumar Yadav,India,Batter,57,1011,22.59,116.37,35,5.77
+8,Hardik Pandya,India,All-rounder,58,1084,22.96,117.28,40,5.88
+9,Ravindra Jadeja,India,All-rounder,59,1157,23.33,118.19,45,5.99
+10,Ravichandran Ashwin,India,All-rounder,60,1230,23.7,119.1,50,6.1
+11,Jasprit Bumrah,India,Bowler,61,1303,24.07,120.01,55,6.21
+12,Mohammed Shami,India,Bowler,62,1376,24.44,120.92,60,6.32
+13,Mohammed Siraj,India,Bowler,63,1449,24.81,121.83,65,6.43
+14,Arshdeep Singh,India,Bowler,64,1522,25.18,122.74,70,6.54
+15,Ruturaj Gaikwad,India,Batter,65,1595,25.55,123.65,75,6.65
+16,Sanju Samson,India,Wicketkeeper,66,1668,25.92,124.56,80,6.76
+17,Rinku Singh,India,Batter,67,1741,26.29,125.47,85,6.87
+18,Tilak Varma,India,Batter,68,1814,26.66,126.38,90,6.98
+19,Axar Patel,India,All-rounder,69,1887,27.03,127.29,95,7.09
+20,Kuldeep Yadav,India,Bowler,70,1960,27.4,128.2,100,7.2
+21,Babar Azam,Pakistan,Batter,71,2033,27.77,129.11,105,7.31
+22,Mohammad Rizwan,Pakistan,Wicketkeeper,72,2106,28.14,130.02,110,7.42
+23,Shaheen Afridi,Pakistan,Bowler,73,2179,28.51,130.93,115,7.53
+24,Haris Rauf,Pakistan,Bowler,74,2252,28.88,131.84,120,7.64
+25,Fakhar Zaman,Pakistan,Batter,75,2325,29.25,132.75,125,7.75
+26,Shadab Khan,Pakistan,All-rounder,76,2398,29.62,133.66,130,7.86
+27,Jos Buttler,England,Wicketkeeper,77,2471,29.99,134.57,135,7.97
+28,Joe Root,England,Batter,78,2544,30.36,135.48,140,8.08
+29,Ben Stokes,England,All-rounder,79,2617,30.73,136.39,145,8.19
+30,Jofra Archer,England,Bowler,80,2690,31.1,137.3,150,8.3
+31,Harry Brook,England,Batter,81,2763,31.47,138.21,155,8.41
+32,Jonny Bairstow,England,Wicketkeeper,82,2836,31.84,139.12,160,8.52
+33,Steve Smith,Australia,Batter,83,2909,32.21,140.03,165,8.63
+34,David Warner,Australia,Batter,84,2982,32.58,140.94,170,8.74
+35,Pat Cummins,Australia,Bowler,85,3055,32.95,141.85,175,8.85
+36,Mitchell Starc,Australia,Bowler,86,3128,33.32,142.76,180,8.96
+37,Josh Hazlewood,Australia,Bowler,87,3201,33.69,143.67,185,9.07
+38,Travis Head,Australia,Batter,88,3274,34.06,144.58,190,9.18
+39,Glenn Maxwell,Australia,All-rounder,89,3347,34.43,145.49,195,9.29
+40,Marnus Labuschagne,Australia,Batter,90,3420,34.8,146.4,200,9.4
+41,Kane Williamson,New Zealand,Batter,91,3493,35.17,147.31,205,9.51
+42,Devon Conway,New Zealand,Batter,92,3566,35.54,148.22,210,9.62
+43,Tom Latham,New Zealand,Wicketkeeper,93,3639,35.91,149.13,215,9.73
+44,Mitchell Santner,New Zealand,All-rounder,94,3712,36.28,150.04,220,9.84
+45,Trent Boult,New Zealand,Bowler,95,3785,36.65,150.95,225,9.95
+46,Tim Southee,New Zealand,Bowler,96,3858,37.02,151.86,230,5.06
+47,Rachin Ravindra,New Zealand,All-rounder,97,3931,37.39,152.77,235,5.17
+48,Daryl Mitchell,New Zealand,All-rounder,98,4004,37.76,153.68,240,5.28
+49,Quinton de Kock,South Africa,Wicketkeeper,99,4077,38.13,154.59,245,5.39
+50,Aiden Markram,South Africa,Batter,100,4150,38.5,155.5,0,5.5
+51,Heinrich Klaasen,South Africa,Wicketkeeper,101,4223,38.87,156.41,5,5.61
+52,Kagiso Rabada,South Africa,Bowler,102,4296,39.24,157.32,10,5.72
+53,Anrich Nortje,South Africa,Bowler,103,4369,39.61,158.23,15,5.83
+54,Marco Jansen,South Africa,All-rounder,104,4442,39.98,159.14,20,5.94
+55,Temba Bavuma,South Africa,Batter,105,4515,40.35,160.05,25,6.05
+56,David Miller,South Africa,Batter,106,4588,40.72,160.96,30,6.16
+57,Kusal Mendis,Sri Lanka,Wicketkeeper,107,4661,41.09,161.87,35,6.27
+58,Wanindu Hasaranga,Sri Lanka,All-rounder,108,4734,41.46,162.78,40,6.38
+59,Pathum Nissanka,Sri Lanka,Batter,109,4807,41.83,163.69,45,6.49
+60,Maheesh Theekshana,Sri Lanka,Bowler,110,4880,42.2,164.6,50,6.6
+61,Shakib Al Hasan,Bangladesh,All-rounder,111,4953,42.57,165.51,55,6.71
+62,Litton Das,Bangladesh,Wicketkeeper,112,5026,42.94,166.42,60,6.82
+63,Mustafizur Rahman,Bangladesh,Bowler,113,5099,43.31,167.33,65,6.93
+64,Taskin Ahmed,Bangladesh,Bowler,114,5172,43.68,168.24,70,7.04
+65,Nicholas Pooran,West Indies,Wicketkeeper,115,5245,44.05,169.15,75,7.15
+66,Shimron Hetmyer,West Indies,Batter,116,5318,44.42,110.06,80,7.26
+67,Andre Russell,West Indies,All-rounder,117,5391,44.79,110.97,85,7.37
+68,Jason Holder,West Indies,All-rounder,118,5464,45.16,111.88,90,7.48
+69,Alzarri Joseph,West Indies,Bowler,119,5537,45.53,112.79,95,7.59
+70,Akeal Hosein,West Indies,Bowler,120,5610,45.9,113.7,100,7.7
+71,Rashid Khan,Afghanistan,Bowler,121,5683,46.27,114.61,105,7.81
+72,Rahmanullah Gurbaz,Afghanistan,Wicketkeeper,122,5756,46.64,115.52,110,7.92
+73,Mohammad Nabi,Afghanistan,All-rounder,123,5829,47.01,116.43,115,8.03
+74,Mujeeb Ur Rahman,Afghanistan,Bowler,124,5902,47.38,117.34,120,8.14
+75,Ibrahim Zadran,Afghanistan,Batter,125,5975,47.75,118.25,125,8.25
+76,Naveen-ul-Haq,Afghanistan,Bowler,126,6048,48.12,119.16,130,8.36
+77,Paul Stirling,Ireland,Batter,127,6121,48.49,120.07,135,8.47
+78,Josh Little,Ireland,Bowler,128,6194,48.86,120.98,140,8.58
+79,Andrew Balbirnie,Ireland,Batter,129,6267,49.23,121.89,145,8.69
+80,Curtis Campher,Ireland,All-rounder,130,6340,49.6,122.8,150,8.8
+81,Sikandar Raza,Zimbabwe,All-rounder,131,6413,49.97,123.71,155,8.91
+82,Sean Williams,Zimbabwe,All-rounder,132,6486,50.34,124.62,160,9.02
+83,Blessing Muzarabani,Zimbabwe,Bowler,133,6559,50.71,125.53,165,9.13
+84,Craig Ervine,Zimbabwe,Batter,134,6632,51.08,126.44,170,9.24
+85,Bas de Leede,Netherlands,All-rounder,135,6705,51.45,127.35,175,9.35
+86,Scott Edwards,Netherlands,Wicketkeeper,136,6778,51.82,128.26,180,9.46
+87,Logan van Beek,Netherlands,Bowler,137,6851,52.19,129.17,185,9.57
+88,Max O'Dowd,Netherlands,Batter,138,6924,52.56,130.08,190,9.68
+89,Bhanuka Rajapaksa,Sri Lanka,Batter,139,6997,52.93,130.99,195,9.79
+90,Charith Asalanka,Sri Lanka,Batter,140,7070,53.3,131.9,200,9.9
+91,Dunith Wellalage,Sri Lanka,All-rounder,141,7143,53.67,132.81,205,5.01
+92,Matheesha Pathirana,Sri Lanka,Bowler,142,7216,54.04,133.72,210,5.12
+93,Prabhsimran Singh,India,Wicketkeeper,143,7289,54.41,134.63,215,5.23
+94,Ishan Kishan,India,Wicketkeeper,144,7362,54.78,135.54,220,5.34
+95,Yuzvendra Chahal,India,Bowler,145,7435,20.15,136.45,225,5.45
+96,Deepak Chahar,India,Bowler,146,7508,20.52,137.36,230,5.56
+97,Washington Sundar,India,All-rounder,147,7581,20.89,138.27,235,5.67
+98,Nitish Kumar Reddy,India,All-rounder,148,7654,21.26,139.18,240,5.78
+99,Abhishek Sharma,India,All-rounder,149,7727,21.63,140.09,245,5.89
+100,Harshit Rana,India,Bowler,150,7800,22.0,141.0,0,6.0
